@@ -1,0 +1,16 @@
+.bannerContainerTheme{
+  background-color: #E8F9FF;
+}
+
+.bannerContainer__content{
+  display: flex;
+}
+
+.bannerContainer__action{
+  display: grid;
+  place-content: center;
+}
+
+.bannerContainer___content > * {
+  width: 50%;
+}
